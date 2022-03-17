@@ -4,3 +4,5 @@ useradd
 usermod
 #suppression des utilisateurs
 userdel [-r,none]
+#commentaire
+userdel -d 
